@@ -27,13 +27,13 @@
 - **Product Placement**: Prominently display powder detergents in vending machine, pushing customers to buy the powder detergents
 
 #### 3. Optimize Vending Machine Placement
--**Maintain Machine Platement**: Ensure vending machines near washers are stocked and well maintained
--**Monitor Preformance**: Continously track vending machine preformance and adjust placement as needed
+- **Maintain Machine Platement**: Ensure vending machines near washers are stocked and well maintained
+- **Monitor Preformance**: Continously track vending machine preformance and adjust placement as needed
 
 #### 4. Focus on Weekend Sales
--**Inventory Planning**: Ensure adequete stock levels for weekends
--**Weekend Promotions**: Implement special promotions/discounts on weekends to drive higher sales
+- **Inventory Planning**: Ensure adequete stock levels for weekends
+- **Weekend Promotions**: Implement special promotions/discounts on weekends to drive higher sales
 
 ### Aditional Recommendations
--**Customer Engagement**: Gather customer feedback to refine inventory and promotional strategies
-**Data-Driven Decisions**: Regularly analyze sales data to identify trends and adjust strategies accordingly
+- **Customer Engagement**: Gather customer feedback to refine inventory and promotional strategies
+- **Data-Driven Decisions**: Regularly analyze sales data to identify trends and adjust strategies accordingly
