@@ -20,12 +20,18 @@ This section contains the SQL queries used to extract and analyze the data store
 
 1. **Low Sales for All Soap (Powder) and Gain (Powder)**
    - Both of these detergents have the lowest sales and lowest inventory turnover rate in the month of July
+   - The bar graph below gives a better visualization on the poor sales of All Soap (Powder) and Gain (Powder)
+![Total Sales Bar Graph](Images/Total_Sales_Bar_Graph.png)
+
   
 2. **Preference for Powder Detergents**
    - Customers show a preference for powder detergents over liquid counterparts
   
 3. **Higher Utilization of Vending Machines Near Washers**
    - Vending machine located near washers had a 25% higher utilization rate compared to other machines in the establishment
+   - The bar graph below gives a better visualization on the utilization rate for all the vending machines
+  
+![Vending Machine Sales Bar Graph](Images/Vending_Machine_Sales_Bar_Graph.png)
   
 4. **Peak Sales on Weekends**
    - Saturdays and Sundays experienced the highest sales volume
